@@ -93,6 +93,21 @@ org.springframework.ws.client.core.WebServiceTemplate
 ```
 all of the mentioned
 ```
+
+#### Q. Which are the modules of Data Access/ integration layer?
+
+* JDBC, ORM, OXM, JMS, Transactions
+
+* JDBC, ORM, OXM, JMS
+
+* JDBC, ORM, Web, Beans
+
+* JDBC, ORM, OXM, JMS
+
+```
+JDBC, ORM, OXM, JMS, Transactions
+
+```
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
