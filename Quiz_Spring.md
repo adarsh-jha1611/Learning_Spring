@@ -43,7 +43,7 @@ Singleton scope
 ```
 #### Q. The concept of an endpoint in web services is much like that of a controller in web applications.
 * True
-* False
+* False.
 ```
 True
 ```
