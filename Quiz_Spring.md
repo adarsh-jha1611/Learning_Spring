@@ -108,6 +108,19 @@ all of the mentioned
 JDBC, ORM, OXM, JMS, Transactions
 
 ```
+#### Q. Which of the following statement is correct? (Choose two) 
+ *  Spring is an open source framework.
+ *  Spring is heavyweight.
+ *  Spring supports tight coupling.
+ *  Spring using Dependency Injection and supports loose coupling.
+
+```
+The correct statements are:
+
+Spring is an open source framework.
+Spring using Dependency Injection and supports loose coupling.
+
+```
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
